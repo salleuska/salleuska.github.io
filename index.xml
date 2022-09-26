@@ -284,11 +284,9 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://salleuska.github.io/publications/</guid>
-      <description>Refereed journals     de Valpine, P., Paganin, S., Turek, D. (2022) compareMCMCs: An R package for studying MCMC efficiency. Journal of Open Source Software, 7(69), 3844
-[ link | github]
-Paganin, S., Herring, A.H., Olshan A.F., and Dunson, D.B. (2021) Centered Partition Process: Informative Priors for Clustering (with Discussion). Bayesian Analysis 16(1), 301&amp;ndash;370
-[ link | arXiv | BA Discussion Webinar | github | poster]
-Aliverti, E.</description>
+      <description>Refereed journals     Paganin, S., Paciorek, C., Wehrhahn, C., A. Rodríguez, A. Rabe-Hesketh, S., De Valpine, P. (2022) Computational strategies and estimation performance with Bayesian semiparametric Item Response Theory models. Journal of Educational and Behavioral Statistics (just accepted)
+[ arXiv | github | poster]
+de Valpine, P., Paganin, S., Turek, D. (2022) compareMCMCs: An R package for studying MCMC efficiency. Journal of Open Source Software, 7(69), 3844</description>
     </item>
     
     <item>
