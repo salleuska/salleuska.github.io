@@ -18,12 +18,14 @@
     </item>
     
     <item>
-      <title>Bayesian nonparametrics with prior information</title>
+      <title>Bayesian nonparametrics</title>
       <link>https://salleuska.github.io/research/bnp/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://salleuska.github.io/research/bnp/</guid>
-      <description>Model-based clustering methods typically rely on discrete mixture models, to represent data clusters as arising from different probability distributions. Discrete nonparametric priors, such as Dirichlet and Pitman-Yor processes, are often used in Bayesian settings to jointly infer the number of clusters as well as their characterization. I have been researching on how to embed these priors in large hierarchical models when dealing with complex data structures or substantial prior information. I have been researching on how to embed these priors in large hierarchical models when dealing with complex data structures or substantial prior information.</description>
+      <description>Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.
+Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to include clustering information.
+Applications using BNP priors     Joint clustering of mixed domain data    application in the context of targeted marketing for insurance products Data: counts (subscribers to a product) and network data (co-subscriptions between products).</description>
     </item>
     
     <item>
