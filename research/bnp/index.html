@@ -42,10 +42,10 @@
     
   <meta itemprop="name" content="Bayesian nonparametrics">
 <meta itemprop="description" content="Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.
-Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to include clustering information.
-Applications using BNP priors     Joint clustering of mixed domain data    application in the context of targeted marketing for insurance products Data: counts (subscribers to a product) and network data (co-subscriptions between products)."><meta itemprop="datePublished" content="2019-07-03T00:00:00&#43;00:00" />
+Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to improve data analysis in practice.
+Prior-driven clustering       Proposed a class of prior distributions on the partition space shrunk toward a know partition, named Centered Partition Processes."><meta itemprop="datePublished" content="2019-07-03T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2019-07-03T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="115"><meta itemprop="image" content="https://salleuska.github.io/research/bnp/featured-hex.png">
+<meta itemprop="wordCount" content="186"><meta itemprop="image" content="https://salleuska.github.io/research/bnp/featured-hex.png">
 <meta itemprop="keywords" content="" />
   
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B0ZGRP4735"></script>
@@ -134,7 +134,36 @@ if (!doNotTrack) {
       </header>
       <section class="post-body pt5 pb4">
         <p>Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.</p>
-<p>Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to include clustering information.</p>
+<p>Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to improve data analysis in practice.</p>
+<img align="right" width="300" src="CenteredPrior.png">
+
+
+
+
+<h3 id="prior-driven-clustering">Prior-driven clustering
+  <a href="#prior-driven-clustering"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h3>
+<ul>
+<li>
+<p>Proposed a class of prior distributions on the partition space shrunk toward a know partition, named <strong>Centered Partition Processes</strong>.</p>
+</li>
+<li>
+<p>Application in birth defect epidemiology, where clustering outcomes aid data analysis for rare defects. Prior information on the partition comes from medical knowledge of pregnancy evolution.</p>
+</li>
+<li>
+<p>
+<a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Centered-Partition-Processes-Informative-Priors-for-Clustering/10.1214/20-BA1197.full" target="_blank" rel="noopener">Paper</a> selected for Discussion in <em>Bayesian Analysis</em> journal.
+[
+
+<a href="https://www.youtube.com/watch?v=V0zCB8doqlo%26list=PLUaj_wLsosMRxaYyh4LPnA1AEPTB7L846%26index=7" target="_blank" rel="noopener">link to Webinar</a> ]</p>
+</li>
+<li>
+<p><strong>Work in progress</strong>: extension to model dependence between partitions over time.</p>
+</li>
+</ul>
 
 
 
@@ -149,34 +178,22 @@ if (!doNotTrack) {
 
 
 
-<h4 id="joint-clustering-of-mixed-domain-data">Joint clustering of mixed domain data
-  <a href="#joint-clustering-of-mixed-domain-data"></a>
-</h4>
-<ul>
-<li>application in the context of targeted marketing for insurance products</li>
-<li>Data: counts (subscribers to a product) and network data (co-subscriptions between products).</li>
-</ul>
-
-
-
-
 <h4 id="item-response-theory-models">Item Response Theory models
   <a href="#item-response-theory-models"></a>
 </h4>
 <p>IRT models are widely used in various social science disciplines to scale binary responses into continuous constructs.</p>
+<img align="left" width="300" src="exampleMarketing.jpg">
+
+
+
+
+<h4 id="joint-clustering-of-mixed-domain-data">Joint clustering of mixed domain data
+  <a href="#joint-clustering-of-mixed-domain-data"></a>
+</h4>
 <ul>
-<li></li>
+<li>Application in the context of targeted marketing for insurance products</li>
+<li>Data: counts (subscribers to a product) and network data (co-subscriptions between products).</li>
 </ul>
-
-
-
-
-<h3 id="prior-driven-clustering">Prior-driven clustering
-  <a href="#prior-driven-clustering"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 0h24v24H0z" fill="currentColor"></path>
-      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
-    </svg></a>
-</h3>
 
         
         <details closed class="f6 fw7 input-reset">
@@ -186,7 +203,7 @@ if (!doNotTrack) {
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 115 words</dd>
+    <dd class="fw5 ml0">1 minute read, 186 words</dd>
   </dl>
   
   

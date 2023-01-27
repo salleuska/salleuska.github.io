@@ -202,8 +202,8 @@ Hello! 👋 hello
       
       <guid>https://salleuska.github.io/research/bnp/</guid>
       <description>Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.
-Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to include clustering information.
-Applications using BNP priors     Joint clustering of mixed domain data    application in the context of targeted marketing for insurance products Data: counts (subscribers to a product) and network data (co-subscriptions between products).</description>
+Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to improve data analysis in practice.
+Prior-driven clustering       Proposed a class of prior distributions on the partition space shrunk toward a know partition, named Centered Partition Processes.</description>
     </item>
     
     <item>
