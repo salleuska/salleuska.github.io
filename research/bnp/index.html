@@ -21,12 +21,12 @@
   
     
   
-<meta name="description" content="Flexible models for clustering and modeling">
+<meta name="description" content="Developing flexible models for clustering and modeling">
 
 
 <meta property="og:site_name" content="Home">
 <meta property="og:title" content="Bayesian nonparametrics | Home">
-<meta property="og:description" content="Flexible models for clustering and modeling" />
+<meta property="og:description" content="Developing flexible models for clustering and modeling" />
 <meta property="og:type" content="page" />
 <meta property="og:url" content="https://salleuska.github.io/research/bnp/" />
 <meta property="og:locale" content="en">
@@ -35,17 +35,17 @@
 
 
     
-        <meta property="og:image" content="https://salleuska.github.io/research/bnp/featured-hex.png" >
-        <meta property="twitter:card" content="summary">
-        <meta name="twitter:image" content="https://salleuska.github.io/research/bnp/featured-hex.png" >
+        <meta property="og:image" content="https://salleuska.github.io/research/bnp/featured_image.png" >
+        <meta property="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="https://salleuska.github.io/research/bnp/featured_image.png" >
     
     
   <meta itemprop="name" content="Bayesian nonparametrics">
 <meta itemprop="description" content="Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.
 Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to improve data analysis in practice.
-Prior-driven clustering       Proposed a class of prior distributions on the partition space shrunk toward a know partition, named Centered Partition Processes."><meta itemprop="datePublished" content="2019-07-03T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2019-07-03T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="186"><meta itemprop="image" content="https://salleuska.github.io/research/bnp/featured-hex.png">
+Prior-driven clustering       Proposed a class of prior distributions on the partition space shrunk toward a know partition, named Centered Partition Processes."><meta itemprop="datePublished" content="2023-02-04T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2023-02-04T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="350"><meta itemprop="image" content="https://salleuska.github.io/research/bnp/featured_image.png">
 <meta itemprop="keywords" content="" />
   
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B0ZGRP4735"></script>
@@ -108,6 +108,11 @@ if (!doNotTrack) {
         
         
         
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/research/" title="Research">Research</a>
+      
+        
+        
+        
       <a class="link f6 f5-l dib pv1 ph2 " href="/talks/" title="Talks">Academic activities</a>
       
         
@@ -121,11 +126,11 @@ if (!doNotTrack) {
 </header>
 
 <main class="page-main pa4" role="main">
-  <section class="page-content mw7 center">
+  <section class="page-content mw8 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
         <h1 class="f1 lh-solid measure-narrow mb3 fw4">Bayesian nonparametrics</h1>
-        <h4 class="f4 mt0 mb4 lh-title measure">Flexible models for clustering and modeling</h4>
+        <h4 class="f4 mt0 mb4 lh-title measure">Developing flexible models for clustering and modeling</h4>
         
         
 
@@ -161,7 +166,7 @@ if (!doNotTrack) {
 <a href="https://www.youtube.com/watch?v=V0zCB8doqlo%26list=PLUaj_wLsosMRxaYyh4LPnA1AEPTB7L846%26index=7" target="_blank" rel="noopener">link to Webinar</a> ]</p>
 </li>
 <li>
-<p><strong>Work in progress</strong>: extension to model dependence between partitions over time.</p>
+<p><strong>Work in progress</strong>: extension to inform partitions with dependence over time.</p>
 </li>
 </ul>
 
@@ -181,8 +186,18 @@ if (!doNotTrack) {
 <h4 id="item-response-theory-models">Item Response Theory models
   <a href="#item-response-theory-models"></a>
 </h4>
-<p>IRT models are widely used in various social science disciplines to scale binary responses into continuous constructs.</p>
-<img align="left" width="300" src="exampleMarketing.jpg">
+<p>IRT models are widely used in various social science disciplines to scale categorical responses from exams and questionnaires into continuous constructs. When interest is in making inference on the latent trait of a population of interest (e.g., ability of students, mental/physical functioning of patients), traditional methods using the standard normal distribution can be restrictive. I am interested in developing extensions for IRT models that are able to account for:</p>
+<ul>
+<li>
+<p><strong>non-normal latent traits</strong>, i.e. the latent distribution presents asymmetries, multimodality or outliers. I have some 
+<a href="https://journals.sagepub.com/doi/10.3102/10769986221136105" target="_blank" rel="noopener">work on this using BNP mixtures</a>.</p>
+</li>
+<li>
+<p><strong>dependence between individuals</strong>, for example, when there classmates studying together for an exam.</p>
+</li>
+</ul>
+<p><strong>Work in progress</strong>: I am collaborating with 
+<a href="https://psychology.nd.edu/graduate-students/meng-chris-qiu/" target="_blank" rel="noopener">Meng (Chris) Qiu</a> (U. of Notre Dame) who is working on extending the use of BNP priors in Latent Class Analysis and Growth Curve models.</p>
 
 
 
@@ -190,20 +205,31 @@ if (!doNotTrack) {
 <h4 id="joint-clustering-of-mixed-domain-data">Joint clustering of mixed domain data
   <a href="#joint-clustering-of-mixed-domain-data"></a>
 </h4>
+<img align="right" width="300" src="exampleMarketing.jpg">
 <ul>
-<li>Application in the context of targeted marketing for insurance products</li>
-<li>Data: counts (subscribers to a product) and network data (co-subscriptions between products).</li>
+<li>
+<p>Application in the context of <em>targeted marketing for insurance products</em></p>
+</li>
+<li>
+<p><strong>Data</strong>: counts (number of subscribers to a product) and network data (co-subscriptions between products) for customers in different locations (agencies)</p>
+</li>
+<li>
+<p><strong>Aim</strong>: jointly model the data to find clusters of customers with the same purchasing behavior to target with the marketing strategy</p>
+</li>
+<li>
+<p>The modeling framework uses BNP priors for clustering and a latent eigenmodel to describe the network data</p>
+</li>
 </ul>
 
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
-    <dd class="fw5 ml0">July 3, 2019</dd>
+    <dd class="fw5 ml0">February 4, 2023</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 186 words</dd>
+    <dd class="fw5 ml0">2 minute read, 350 words</dd>
   </dl>
   
   
@@ -219,13 +245,10 @@ if (!doNotTrack) {
         <div class="post-pagination dt w-100 mt4 mb2">
   
   
-    <a class="prev dtc pr2 tl v-top fw6"
-    href="https://salleuska.github.io/research/cancer/">&larr; Bayesian framework for cancer detection</a>
-  
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="https://salleuska.github.io/research/giraffes/">Tachyons for Style &rarr;</a>
+    href="https://salleuska.github.io/research/computational/">Computational methods and software &rarr;</a>
   
 </div>
 

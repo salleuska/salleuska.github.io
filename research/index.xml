@@ -7,20 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Sally Paganin</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://salleuska.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bayesian framework for cancer detection</title>
-      <link>https://salleuska.github.io/research/cancer/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://salleuska.github.io/research/cancer/</guid>
-      <description> This is a project I am working on      </description>
-    </item>
-    
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://salleuska.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bayesian nonparametrics</title>
       <link>https://salleuska.github.io/research/bnp/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://salleuska.github.io/research/bnp/</guid>
       <description>Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.
@@ -29,31 +20,21 @@ Prior-driven clustering       Proposed a class of prior distributions on the par
     </item>
     
     <item>
-      <title>Tachyons for Style</title>
-      <link>https://salleuska.github.io/research/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Computational methods and software</title>
+      <link>https://salleuska.github.io/research/computational/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://salleuska.github.io/research/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+      <guid>https://salleuska.github.io/research/computational/</guid>
+      <description>Fast Bayesian model assessment     Posterior predictive checks are probably the most popular tool for Bayesian model assessment. The rationale behind is fairly simple: if the model I am using is &amp;ldquo;good&amp;rdquo;, then new (simulated) data from my model should be similar to the original observed data. Similarity is sometimes assessed using graphical comparisons, but more often some statistics of the the data are used, which can be accompanied by a posterior predictive p-value (ppp).</description>
     </item>
     
     <item>
-      <title>Palmer Penguins</title>
-      <link>https://salleuska.github.io/research/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <title>A Bayesian framework for cancer detection</title>
+      <link>https://salleuska.github.io/research/cancer/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://salleuska.github.io/research/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Bakeoff</title>
-      <link>https://salleuska.github.io/research/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://salleuska.github.io/research/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <guid>https://salleuska.github.io/research/cancer/</guid>
+      <description>Blood-based tests are among the most-promising technologies for minimally invasive detection of cancer at early stages. These tests are based on the analysis of cell-free DNA, fragments of DNA released by cells that can be found in the blood and other body fluids. When developing a cancer mass, some of these fragments will be released by cancerous cells. DNA from these cells will differ by other fragments because of acquired mutations.</description>
     </item>
     
   </channel>
