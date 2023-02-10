@@ -235,16 +235,6 @@ Hello! 👋 hello
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://salleuska.github.io/contact/</link>
-      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      
-      <guid>https://salleuska.github.io/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
-    </item>
-    
-    <item>
       <title>Typography Styles &amp; Element Examples</title>
       <link>https://salleuska.github.io/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
@@ -263,6 +253,16 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title></title>
+      <link>https://salleuska.github.io/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://salleuska.github.io/activities/</guid>
+      <description>Service to the Profession     In 2021 and 2022, I have served as Treasurer of the j-ISBA, the junior section of the International Society of Bayesian Analysis ( ISBA). As an officer of the section, I have been contributing towards building more opportunities for early-career researchers, for example, designing the Blackwell-Rosenbluth award, or organizing dedicated sessions at scientific events.
+I also been involved in the organizing and scientific committees of conferences of the Bayesian community such as ISBA2021, BaYSM2021, and BayesComp2023.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://salleuska.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -270,16 +270,6 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <description>Refereed journals     Paganin, S., Paciorek, C., Wehrhahn, C., A. Rodríguez, A. Rabe-Hesketh, S., De Valpine, P. (2022) Computational strategies and estimation performance with Bayesian semiparametric Item Response Theory models. Journal of Educational and Behavioral Statistics
 [ link | arXiv | github | poster ]
 de Valpine, P., Paganin, S., Turek, D. (2022) compareMCMCs: An R package for studying MCMC efficiency. Journal of Open Source Software, 7(69), 3844</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://salleuska.github.io/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://salleuska.github.io/talks/</guid>
-      <description>Service to the Profession     In 2021 and 2022, I have served as Treasurer of the j-ISBA, the junior section of the International Society of Bayesian Analysis ( ISBA). As an officer of the section, I have been contributing towards building more opportunities for early-career researchers, for example, designing the Blackwell-Rosenbluth award, or organizing dedicated sessions at scientific events.
-I also been involved in the organizing and scientific committees of conferences of the Bayesian community such as ISBA2021, BaYSM2021, and BayesComp2023.</description>
     </item>
     
     <item>
