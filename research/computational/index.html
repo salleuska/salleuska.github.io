@@ -43,7 +43,7 @@
   <meta itemprop="name" content="Computational methods and software">
 <meta itemprop="description" content="Fast Bayesian model assessment     Posterior predictive checks are probably the most popular tool for Bayesian model assessment. The rationale behind is fairly simple: if the model I am using is &ldquo;good&rdquo;, then new (simulated) data from my model should be similar to the original observed data. Similarity is sometimes assessed using graphical comparisons, but more often some statistics of the the data are used, which can be accompanied by a posterior predictive p-value (ppp)."><meta itemprop="datePublished" content="2023-02-03T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2023-02-03T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="348"><meta itemprop="image" content="https://salleuska.github.io/research/computational/featured_nimble.png">
+<meta itemprop="wordCount" content="347"><meta itemprop="image" content="https://salleuska.github.io/research/computational/featured_nimble.png">
 <meta itemprop="keywords" content="" />
   
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B0ZGRP4735"></script>
@@ -144,7 +144,8 @@ if (!doNotTrack) {
 <p><em>Posterior predictive checks</em> are probably the most popular tool for Bayesian model assessment. The rationale behind is fairly simple: if the model I am using is &ldquo;good&rdquo;, then new (simulated) data from my model should be similar to the original observed data. Similarity is sometimes assessed using graphical comparisons, but more often some statistics of the the data are used, which can be accompanied by a <strong>posterior predictive p-value</strong> (ppp).</p>
 <p>These ppps are challenging to interpret due to the fact that they do not share the same properties of frequentist p-values, i.e. they are not uniformly distributed under the null hypothesis that the model did really generate the data. <em>Calibration</em> is a way to adjust the interpretation of the ppps, which can be done in general using resampling methods. This translates into performing MCMC estimation multiple times. Nevertheless to say, no-one really does this.</p>
 <img align="center" width="650" src="cpppEdited.png">
-<p>I have some (soon to be out) work on <strong>approximating calibrated posterior predictive p-values</strong> to a useful degree of accuracy much faster than would be achieved by a naive implementation.</p>
+<p>I have some work on <strong>approximating calibrated posterior predictive p-values</strong> (
+<a href="https://arxiv.org/abs/2306.04866" target="_blank" rel="noopener">arXiV preprint</a>) to a useful degree of accuracy much faster than would be achieved by a naive implementation.</p>
 <p>We have implemented the method using the NIMBLE package, with code and examples available on 
 <a href="https://github.com/salleuska/fastCPPP" target="_blank" rel="noopener">github</a>. Ultimately, we aim to implement and release the method in a general R package able to interface not only with nimble, but also other MCMC packages such as Stan and JAGS.</p>
 
@@ -173,7 +174,7 @@ if (!doNotTrack) {
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">2 minute read, 348 words</dd>
+    <dd class="fw5 ml0">2 minute read, 347 words</dd>
   </dl>
   
   
