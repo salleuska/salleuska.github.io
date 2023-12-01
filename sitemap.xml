@@ -2,41 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://salleuska.github.io/collection/day02/01-netlify/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://salleuska.github.io/blog/spoonful-series/01-spoonful/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salleuska.github.io/collection/day01/01-github/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salleuska.github.io/collection/prework/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salleuska.github.io/collection/day01/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salleuska.github.io/collection/day01/02-postcards/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://salleuska.github.io/blog/spoonful-series/02-spoonful/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://salleuska.github.io/collection/day02/02-blogdown/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salleuska.github.io/collection/day02/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://salleuska.github.io/blog/spoonful-series/03-spoonful/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salleuska.github.io/collection/day01/03-distill/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salleuska.github.io/collection/day02/03-blogdown/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://salleuska.github.io/research/bnp/</loc>
     <lastmod>2023-02-04T00:00:00+00:00</lastmod>
@@ -76,9 +49,6 @@
   </url><url>
     <loc>https://salleuska.github.io/tags/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salleuska.github.io/collection/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://salleuska.github.io/blog/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>

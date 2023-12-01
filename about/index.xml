@@ -6,6 +6,7 @@
     <description>Recent content in About on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Sally Paganin</copyright><atom:link href="https://salleuska.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Sally Paganin</copyright>
+    <atom:link href="https://salleuska.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
