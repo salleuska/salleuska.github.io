@@ -2,34 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Home</title>
-    <link>https://salleuska.github.io/research/</link>
+    <link>http://localhost:1313/research/</link>
     <description>Recent content in Research on Home</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Sally Paganin</copyright>
     <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://salleuska.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bayesian nonparametrics</title>
-      <link>https://salleuska.github.io/research/bnp/</link>
+      <link>http://localhost:1313/research/bnp/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/research/bnp/</guid>
-      <description>Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.
-Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to improve data analysis in practice.
-Prior-driven clustering Proposed a class of prior distributions on the partition space shrunk toward a known partition, named Centered Partition Processes.</description>
+      <guid>http://localhost:1313/research/bnp/</guid>
+      <description>Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.&#xA;Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to improve data analysis in practice.&#xA;Prior-driven clustering Proposed a class of prior distributions on the partition space shrunk toward a known partition, named Centered Partition Processes.</description>
     </item>
     <item>
       <title>Computational methods and software</title>
-      <link>https://salleuska.github.io/research/computational/</link>
+      <link>http://localhost:1313/research/computational/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/research/computational/</guid>
+      <guid>http://localhost:1313/research/computational/</guid>
       <description>Fast Bayesian model assessment Posterior predictive checks are probably the most popular tool for Bayesian model assessment. The rationale behind is fairly simple: if the model I am using is &amp;ldquo;good&amp;rdquo;, then new (simulated) data from my model should be similar to the original observed data. Similarity is sometimes assessed using graphical comparisons, but more often some statistics of the the data are used, which can be accompanied by a posterior predictive p-value (ppp).</description>
     </item>
     <item>
       <title>A Bayesian framework for cancer detection</title>
-      <link>https://salleuska.github.io/research/cancer/</link>
+      <link>http://localhost:1313/research/cancer/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/research/cancer/</guid>
+      <guid>http://localhost:1313/research/cancer/</guid>
       <description>Blood-based tests are among the most-promising technologies for minimally invasive detection of cancer at early stages. These tests are based on the analysis of cell-free DNA, fragments of DNA released by cells that can be found in the blood and other body fluids. When developing a cancer mass, some of these fragments will be released by cancerous cells. DNA from these cells will differ by other fragments because of acquired mutations.</description>
     </item>
   </channel>

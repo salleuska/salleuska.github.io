@@ -2,184 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sally Paganin on Home</title>
-    <link>https://salleuska.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Sally Paganin on Home</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Sally Paganin</copyright>
     <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://salleuska.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A first post</title>
-      <link>https://salleuska.github.io/blog/spoonful-series/01-spoonful/</link>
+      <link>http://localhost:1313/blog/spoonful-series/01-spoonful/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/spoonful-series/01-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog/spoonful-series/01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.
-beginning middle end </description>
+      <guid>http://localhost:1313/blog/spoonful-series/01-spoonful/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.&#xA;beginning middle end </description>
     </item>
     <item>
       <title>A second post</title>
-      <link>https://salleuska.github.io/blog/spoonful-series/02-spoonful/</link>
+      <link>http://localhost:1313/blog/spoonful-series/02-spoonful/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/spoonful-series/02-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog/spoonful-series/02-spoonful/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
+      <guid>http://localhost:1313/blog/spoonful-series/02-spoonful/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/02-spoonful/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
     </item>
     <item>
       <title>A third post</title>
-      <link>https://salleuska.github.io/blog/spoonful-series/03-spoonful/</link>
+      <link>http://localhost:1313/blog/spoonful-series/03-spoonful/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
-To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
+      <guid>http://localhost:1313/blog/spoonful-series/03-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.&#xA;To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
     </item>
     <item>
       <title>Bayesian nonparametrics</title>
-      <link>https://salleuska.github.io/research/bnp/</link>
+      <link>http://localhost:1313/research/bnp/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/research/bnp/</guid>
-      <description>Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.
-Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to improve data analysis in practice.
-Prior-driven clustering Proposed a class of prior distributions on the partition space shrunk toward a known partition, named Centered Partition Processes.</description>
+      <guid>http://localhost:1313/research/bnp/</guid>
+      <description>Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.&#xA;Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to improve data analysis in practice.&#xA;Prior-driven clustering Proposed a class of prior distributions on the partition space shrunk toward a known partition, named Centered Partition Processes.</description>
     </item>
     <item>
       <title>Computational methods and software</title>
-      <link>https://salleuska.github.io/research/computational/</link>
+      <link>http://localhost:1313/research/computational/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/research/computational/</guid>
+      <guid>http://localhost:1313/research/computational/</guid>
       <description>Fast Bayesian model assessment Posterior predictive checks are probably the most popular tool for Bayesian model assessment. The rationale behind is fairly simple: if the model I am using is &amp;ldquo;good&amp;rdquo;, then new (simulated) data from my model should be similar to the original observed data. Similarity is sometimes assessed using graphical comparisons, but more often some statistics of the the data are used, which can be accompanied by a posterior predictive p-value (ppp).</description>
     </item>
     <item>
       <title>A Bayesian framework for cancer detection</title>
-      <link>https://salleuska.github.io/research/cancer/</link>
+      <link>http://localhost:1313/research/cancer/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/research/cancer/</guid>
+      <guid>http://localhost:1313/research/cancer/</guid>
       <description>Blood-based tests are among the most-promising technologies for minimally invasive detection of cancer at early stages. These tests are based on the analysis of cell-free DNA, fragments of DNA released by cells that can be found in the blood and other body fluids. When developing a cancer mass, some of these fragments will be released by cancerous cells. DNA from these cells will differ by other fragments because of acquired mutations.</description>
     </item>
     <item>
       <title>Set up your social</title>
-      <link>https://salleuska.github.io/blog/social/</link>
+      <link>http://localhost:1313/blog/social/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/social/</guid>
-      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
-site header (set in config.toml), site footer (set in config.toml), homepage (set in content/_index.md), about page in the sidebar (set in content/about/sidebar/index.md), and contact page (set in content/form/contact.md). Read on to learn how to set up your social icons, and how to show/hide them.
-Configure social Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
+      <guid>http://localhost:1313/blog/social/</guid>
+      <description>There are five places where you can choose to show social icons. Here is the tl;dr:&#xA;site header (set in config.toml), site footer (set in config.toml), homepage (set in content/_index.md), about page in the sidebar (set in content/about/sidebar/index.md), and contact page (set in content/form/contact.md). Read on to learn how to set up your social icons, and how to show/hide them.&#xA;Configure social Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
     </item>
     <item>
       <title>Style your site colors</title>
-      <link>https://salleuska.github.io/blog/color-themes/</link>
+      <link>http://localhost:1313/blog/color-themes/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/color-themes/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
-Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
+      <guid>http://localhost:1313/blog/color-themes/</guid>
+      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.&#xA;Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
     </item>
     <item>
       <title>Style your site typography</title>
-      <link>https://salleuska.github.io/blog/fonts/</link>
+      <link>http://localhost:1313/blog/fonts/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/fonts/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
-Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content &amp;#x2764;&amp;#xfe0f;!</description>
+      <guid>http://localhost:1313/blog/fonts/</guid>
+      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.&#xA;Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content &amp;#x2764;&amp;#xfe0f;!</description>
     </item>
     <item>
       <title>An evergreen post</title>
-      <link>https://salleuska.github.io/blog/evergreen/</link>
+      <link>http://localhost:1313/blog/evergreen/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/evergreen/</guid>
-      <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.
-Rmarkdown In .Rmarkdown documents, you can use either
-$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
-And you can use
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
+      <guid>http://localhost:1313/blog/evergreen/</guid>
+      <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.&#xA;Rmarkdown In .Rmarkdown documents, you can use either&#xA;$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.&#xA;And you can use&#xA;$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:&#xA;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
     </item>
     <item>
       <title>Using panelsets</title>
-      <link>https://salleuska.github.io/blog/seedling/</link>
+      <link>http://localhost:1313/blog/seedling/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
-For example, this panelset:
-Hello! &amp;#x1f44b; hello
-Goodbye &amp;#x1f4a8; goodbye
-Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
-{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:
-Question Which came first: the :chicken: or the :egg:?</description>
+      <guid>http://localhost:1313/blog/seedling/</guid>
+      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
     </item>
     <item>
       <title>An Rmarkdown post</title>
-      <link>https://salleuska.github.io/blog/rmarkdown/</link>
+      <link>http://localhost:1313/blog/rmarkdown/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/rmarkdown/</guid>
+      <guid>http://localhost:1313/blog/rmarkdown/</guid>
       <description> Air quality with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
     </item>
     <item>
       <title>CSS Grid Scaffold</title>
-      <link>https://salleuska.github.io/blog/css-grid-scaffold/</link>
+      <link>http://localhost:1313/blog/css-grid-scaffold/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
-Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+      <guid>http://localhost:1313/blog/css-grid-scaffold/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1&#xA;Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
     </item>
     <item>
       <title>Built-in Contact Form</title>
-      <link>https://salleuska.github.io/blog/built-in-contact-form/</link>
+      <link>http://localhost:1313/blog/built-in-contact-form/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/blog/built-in-contact-form/</guid>
+      <guid>http://localhost:1313/blog/built-in-contact-form/</guid>
       <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
     </item>
     <item>
       <title>Typography Styles &amp; Element Examples</title>
-      <link>https://salleuska.github.io/elements/</link>
+      <link>http://localhost:1313/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
-      <guid>https://salleuska.github.io/elements/</guid>
-      <description>Font Sizes A A A A A A A A 6rem
-(96px) 5rem
-(80px) 3rem
-(48px) 2.25rem
-(36px) 1.5rem
-(24px) 1.25rem
-(20px) 1rem
-(16px) .875rem
-(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+      <guid>http://localhost:1313/elements/</guid>
+      <description>Font Sizes A A A A A A A A 6rem&#xA;(96px) 5rem&#xA;(80px) 3rem&#xA;(48px) 2.25rem&#xA;(36px) 1.5rem&#xA;(24px) 1.25rem&#xA;(20px) 1rem&#xA;(16px) .875rem&#xA;(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
     </item>
     <item>
       <title></title>
-      <link>https://salleuska.github.io/activities/</link>
+      <link>http://localhost:1313/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/activities/</guid>
-      <description>Service to the Profession In 2021 and 2022, I have served as Treasurer of the j-ISBA, the junior section of the International Society of Bayesian Analysis ( ISBA). As an officer of the section, I have been contributing towards building more opportunities for early-career researchers, for example, designing the Blackwell-Rosenbluth award, or organizing dedicated sessions at scientific events.
-I also been involved in the organizing and scientific committees of conferences of the Bayesian community such as ISBA2021, BaYSM2021, and BayesComp2023.</description>
+      <guid>http://localhost:1313/activities/</guid>
+      <description>Service to the Profession I am going to be Program-Chair Elect for the ASA Section on Bayesian Statistical Science ( SBSS) for the year 2025.&#xA;Since June 2021, I am Associate Editor of The New England Journal of Statistics in Data Science (Software section).&#xA;In 2021 and 2022, I have served as Treasurer of the j-ISBA, the junior section of the International Society of Bayesian Analysis ( ISBA). As an officer of the section, I have been contributing towards building more opportunities for early-career researchers, for example, designing the Blackwell-Rosenbluth award, or organizing dedicated sessions at scientific events.</description>
     </item>
     <item>
       <title></title>
-      <link>https://salleuska.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/publications/</guid>
-      <description>Refereed journals Paganin, S., Paciorek, C., Wehrhahn, C., A. Rodríguez, A. Rabe-Hesketh, S., De Valpine, P. (2022) Computational strategies and estimation performance with Bayesian semiparametric Item Response Theory models. Journal of Educational and Behavioral Statistics, 35(3), 307–335
-[ link | arXiv | github | poster ]
-de Valpine, P., Paganin, S., Turek, D. (2022) compareMCMCs: An R package for studying MCMC efficiency. Journal of Open Source Software, 7(69), 3844</description>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>Refereed journals Paganin, S., De Valpine, P. (2024) Computational methods for fast Bayesian model assessment via calibrated posterior p-values. Journal of Computational and Graphical Statistics (accepted).&#xA;[ link | arXiV | github | poster ]&#xA;Paganin, S., Paciorek, C., Wehrhahn, C., A. Rodríguez, A. Rabe-Hesketh, S., De Valpine, P. (2022) Computational strategies and estimation performance with Bayesian semiparametric Item Response Theory models. Journal of Educational and Behavioral Statistics, 35(3), 307–335</description>
     </item>
     <item>
       <title>Contributors</title>
-      <link>https://salleuska.github.io/contributors/</link>
+      <link>http://localhost:1313/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/contributors/</guid>
-      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
-Desirée De Leon &amp;#x1f992; (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
-Garrick Aden-Buie &amp;#x1f9d9; (debugged headroom.js and lent his panelset.js code to the theme)
-Allison Horst &amp;#x1f415; (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot &amp;#x1f994;)</description>
+      <guid>http://localhost:1313/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:&#xA;Desirée De Leon &amp;#x1f992; (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)&#xA;Garrick Aden-Buie &amp;#x1f9d9; (debugged headroom.js and lent his panelset.js code to the theme)&#xA;Allison Horst &amp;#x1f415; (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot &amp;#x1f994;)</description>
     </item>
     <item>
       <title>License</title>
-      <link>https://salleuska.github.io/license/</link>
+      <link>http://localhost:1313/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://salleuska.github.io/license/</guid>
+      <guid>http://localhost:1313/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
   </channel>
