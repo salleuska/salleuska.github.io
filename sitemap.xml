@@ -2,96 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/spoonful-series/01-spoonful/</loc>
+    <loc>https://salleuska.github.io/blog/spoonful-series/01-spoonful/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/spoonful-series/02-spoonful/</loc>
+    <loc>https://salleuska.github.io/blog/spoonful-series/02-spoonful/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/spoonful-series/03-spoonful/</loc>
+    <loc>https://salleuska.github.io/blog/spoonful-series/03-spoonful/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/bnp/</loc>
+    <loc>https://salleuska.github.io/research/bnp/</loc>
     <lastmod>2023-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://salleuska.github.io/research/</loc>
     <lastmod>2023-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://salleuska.github.io/</loc>
     <lastmod>2023-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/computational/</loc>
+    <loc>https://salleuska.github.io/research/computational/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/cancer/</loc>
+    <loc>https://salleuska.github.io/research/cancer/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://salleuska.github.io/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://salleuska.github.io/categories/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/social/</loc>
+    <loc>https://salleuska.github.io/blog/social/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/theme-features/</loc>
+    <loc>https://salleuska.github.io/categories/theme-features/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/style/</loc>
+    <loc>https://salleuska.github.io/tags/style/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/color-themes/</loc>
+    <loc>https://salleuska.github.io/blog/color-themes/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/fonts/</loc>
+    <loc>https://salleuska.github.io/blog/fonts/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://salleuska.github.io/tags/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/evergreen/</loc>
+    <loc>https://salleuska.github.io/blog/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/evergreen/</loc>
+    <loc>https://salleuska.github.io/categories/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/a-spoonful-of-hugo/</loc>
+    <loc>https://salleuska.github.io/blog/spoonful-series/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/spoonful-series/</loc>
+    <loc>https://salleuska.github.io/series/a-spoonful-of-hugo/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-site/</loc>
+    <loc>https://salleuska.github.io/tags/hugo-site/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/r/</loc>
+    <loc>https://salleuska.github.io/categories/r/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://salleuska.github.io/series/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/seedling/</loc>
+    <loc>https://salleuska.github.io/blog/seedling/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/rmarkdown/</loc>
+    <loc>https://salleuska.github.io/blog/rmarkdown/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/css-grid-scaffold/</loc>
+    <loc>https://salleuska.github.io/blog/css-grid-scaffold/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/built-in-contact-form/</loc>
+    <loc>https://salleuska.github.io/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elements/</loc>
+    <loc>https://salleuska.github.io/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/activities/</loc>
+    <loc>https://salleuska.github.io/activities/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://salleuska.github.io/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/contributors/</loc>
+    <loc>https://salleuska.github.io/contributors/</loc>
   </url><url>
-    <loc>http://localhost:1313/license/</loc>
+    <loc>https://salleuska.github.io/license/</loc>
   </url>
 </urlset>

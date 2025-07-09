@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Home</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://salleuska.github.io/categories/</link>
     <description>Recent content in Categories on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Sally Paganin</copyright>
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://salleuska.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme Features</title>
-      <link>http://localhost:1313/categories/theme-features/</link>
+      <link>https://salleuska.github.io/categories/theme-features/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/theme-features/</guid>
+      <guid>https://salleuska.github.io/categories/theme-features/</guid>
       <description></description>
     </item>
     <item>
       <title>Evergreen</title>
-      <link>http://localhost:1313/categories/evergreen/</link>
+      <link>https://salleuska.github.io/categories/evergreen/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/evergreen/</guid>
+      <guid>https://salleuska.github.io/categories/evergreen/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>http://localhost:1313/categories/r/</link>
+      <link>https://salleuska.github.io/categories/r/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/r/</guid>
+      <guid>https://salleuska.github.io/categories/r/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Home</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://salleuska.github.io/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Sally Paganin</copyright>
     <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://salleuska.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Style</title>
-      <link>http://localhost:1313/tags/style/</link>
+      <link>https://salleuska.github.io/tags/style/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/style/</guid>
+      <guid>https://salleuska.github.io/tags/style/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo-Site</title>
-      <link>http://localhost:1313/tags/hugo-site/</link>
+      <link>https://salleuska.github.io/tags/hugo-site/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo-site/</guid>
+      <guid>https://salleuska.github.io/tags/hugo-site/</guid>
       <description></description>
     </item>
   </channel>

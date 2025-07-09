@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Home</title>
-    <link>http://localhost:1313/research/</link>
+    <link>https://salleuska.github.io/research/</link>
     <description>Recent content in Research on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Sally Paganin</copyright>
     <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://salleuska.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bayesian nonparametrics</title>
-      <link>http://localhost:1313/research/bnp/</link>
+      <link>https://salleuska.github.io/research/bnp/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/bnp/</guid>
+      <guid>https://salleuska.github.io/research/bnp/</guid>
       <description>&lt;p&gt;Bayesian nonparametrics (BNP) priors are often used as flexible models to describe the unknown distribution of a heterogeneous population, implicitly inducing a clustering of the observations into homogeneous groups.&lt;/p&gt;&#xA;&lt;p&gt;Part of my work uses BNP methods to aid data analysis for a specific application, while I am also interested in developing methodological extensions of BNP priors to improve data analysis in practice.&lt;/p&gt;&#xA;&lt;img align=&#34;right&#34; width=&#34;300&#34; src=&#34;CenteredPrior.png&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;prior-driven-clustering&#34;&gt;Prior-driven clustering&#xA;  &lt;a href=&#34;#prior-driven-clustering&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Proposed a class of prior distributions on the partition space shrunk toward a known partition, named &lt;strong&gt;Centered Partition Processes&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computational methods and software</title>
-      <link>http://localhost:1313/research/computational/</link>
+      <link>https://salleuska.github.io/research/computational/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/computational/</guid>
+      <guid>https://salleuska.github.io/research/computational/</guid>
       <description>&lt;h3 id=&#34;fast-bayesian-model-assessment&#34;&gt;Fast Bayesian model assessment&#xA;  &lt;a href=&#34;#fast-bayesian-model-assessment&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Posterior predictive checks&lt;/em&gt; are probably the most popular tool for Bayesian model assessment. The rationale behind is fairly simple: if the model I am using is &amp;ldquo;good&amp;rdquo;, then new (simulated) data from my model should be similar to the original observed data. Similarity is sometimes assessed using graphical comparisons, but more often some statistics of the the data are used, which can be accompanied by a &lt;strong&gt;posterior predictive p-value&lt;/strong&gt; (ppp).&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Bayesian framework for cancer detection</title>
-      <link>http://localhost:1313/research/cancer/</link>
+      <link>https://salleuska.github.io/research/cancer/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/cancer/</guid>
+      <guid>https://salleuska.github.io/research/cancer/</guid>
       <description>&lt;p&gt;Blood-based tests are among the most-promising technologies for minimally invasive detection of cancer at early stages. These tests are based on the analysis of &lt;strong&gt;cell-free DNA&lt;/strong&gt;, fragments of DNA released by cells that can be found in the blood and other body fluids. When developing a cancer mass, some of these fragments will be released by cancerous cells. DNA from these cells will differ by other fragments because of acquired mutations.&lt;/p&gt;</description>
     </item>
   </channel>
